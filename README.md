@@ -1,5 +1,5 @@
-#Openstack for Architects
-This is the code repository for [Openstack for Architects](https://www.packtpub.com/virtualization-and-cloud/openstack-architects?utm_source=github&utm_medium=repository&utm_campaign=9781784395100), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+#OpenStack for Architects
+This is the code repository for [OpenStack for Architects](https://www.packtpub.com/virtualization-and-cloud/openstack-architects?utm_source=github&utm_medium=repository&utm_campaign=9781784395100), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Over the last 5 years, hundreds of organizations have successfully implemented Infrastructure as a Service (IaaS) platforms based on OpenStack. The huge amount of investment from these organizations, industry giants such as IBM and HP, as well as open source leaders such as Red Hat have led analysts to label OpenStack as the most important open source technology since the Linux operating system. Because of its ambitious scope, OpenStack is a complex and fast-evolving open source project that requires a diverse skill-set to design and implement it.
 

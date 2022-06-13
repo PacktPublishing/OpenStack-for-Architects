@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B09851?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 #OpenStack for Architects
 This is the code repository for [OpenStack for Architects](https://www.packtpub.com/virtualization-and-cloud/openstack-architects?utm_source=github&utm_medium=repository&utm_campaign=9781784395100), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
